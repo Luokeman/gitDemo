@@ -5,6 +5,8 @@ public class HappyB20 {
 
         System.out.println("happy Eid to everyone");
 
+        System.out.println("just practicing");
+
 
 
     }
